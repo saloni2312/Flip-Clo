@@ -3,8 +3,8 @@
 class DBController {
     protected $host = 'localhost';
     protected $user = 'root';
-    protected $password = '';
-    protected $database = 'flipkart_olddb';
+    protected $password = 'amity7161';
+    protected $database = 'flipkart_clone';
 
     public $con = null;
 
